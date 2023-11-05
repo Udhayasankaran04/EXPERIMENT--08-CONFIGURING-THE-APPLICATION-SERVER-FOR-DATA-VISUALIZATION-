@@ -11,19 +11,19 @@ A high-end online-transaction-processing-style application server delivers busin
 As the application server market matures, high performance becomes a stronger criterion, and thus where vendors now incorporate extensions to application servers, such as extreme transaction processing and event-based processing capabilities, these are also included in this market segment.
 ## Procedure :
 
- 1. login to the network server using login link  https://iot.saveetha.in/
- 2.  click on the Application server as shown below 
+ 1.Login to the network server using login link  https://iot.saveetha.in/
+ 2.Click on the Application server as shown below 
  ![image](https://github.com/Udhayasankaran04/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119393933/9c442193-5783-4283-8fa9-9960ba2f13a2)
  3.Click on the Add dashboard option as shown below 
  ![image](https://github.com/Udhayasankaran04/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119393933/ace28474-6625-4357-ba44-b1b3b78a938a)
  4.After creating dash board , using the edit option on the right corner  add the widgets as shown
  ![image](https://github.com/Udhayasankaran04/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119393933/45c68101-dc8a-449e-a11a-14ea991c0811)
- 5. After addition of the widget on the data dash board the data should appear as shown belwo 
- 6. Create a query as shown below 
+ 5.After addition of the widget on the data dash board the data should appear as shown belwo 
+ 6.Create a query as shown below 
  ![image](https://github.com/Udhayasankaran04/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119393933/f11e6297-ee97-4a94-a6a9-0efcedfc2048)
- 7. Using the visualization editor modify as per the requirements 
+ 7.Using the visualization editor modify as per the requirements 
  ![image](https://github.com/Udhayasankaran04/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119393933/96980390-9cd2-4072-b7b9-fd3dfacd7e10)
- 8. save to update the visualization on the dashboard as shown in the output 
+ 8.Save to update the visualization on the dashboard as shown in the output 
 
 ## OUTPUT 
  ![image](https://github.com/Udhayasankaran04/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119393933/f6d128f6-d293-42ce-b48a-550c7666d955)
